@@ -1,0 +1,36 @@
+{
+    "transactions": [
+        {
+            "id": 134569,
+            "description": "Desenvolvimento",
+            "type": "income",
+            "category": "Venda",
+            "price": 14000,
+            "createdAt": "2024-07-29T19:36:44.505Z"
+        },
+        {
+            "id": 2,
+            "description": "Pastel",
+            "type": "outcome",
+            "category": "Alimentação",
+            "price": 20,
+            "createdAt": "2024-07-29T19:30:44.505Z"
+        },
+        {
+            "id": 3,
+            "description": "Pastel",
+            "type": "income",
+            "category": "Venda",
+            "price": 14000,
+            "createdAt": "2024-07-29T19:36:44.505Z"
+        },
+        {
+            "id": 4,
+            "description": "Site",
+            "type": "income",
+            "category": "Venda",
+            "price": 14000,
+            "createdAt": "2024-07-29T19:36:44.505Z"
+        }
+    ]
+}
